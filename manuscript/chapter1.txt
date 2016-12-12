@@ -1,1 +1,6 @@
-Hello world!
+# Binary Variables #
+Binary random variables have two outcomes. Either the outcome is 1 or 0. We often use different labels for the outcomes, such as *yes* og *no*, *heart attack*, *no heart attack* and so on.
+
+We are interested in the probability of the positive outcome (or the proportion or percentage).   
+
+The probability of a positive outcome will be denoted by \\( \pi \\).  Let Y be binary random variable. Then we write \\(P[Y=1]=\pi\\) for the probability of Y taking the value 1. 
