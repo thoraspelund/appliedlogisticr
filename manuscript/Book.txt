@@ -1,3 +1,2 @@
 chapter1.txt
-chapter1-1.txt
-chapter1binaryvariables.txt
+
