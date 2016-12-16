@@ -1,6 +1,19 @@
 # Binary Variables #
-Binary random variables have two outcomes. Either the outcome is 1 or 0. We often use different labels for the outcomes, such as *yes* og *no*, *heart attack*, *no heart attack* and so on.
+Binary random variables have two outcomes. Either the outcome is 1 or 0. We often use different labels for the outcomes, such as *yes* and *no*, *heart attack*, *no heart attack* and so on.
 
 We are interested in the probability of the positive outcome (or the proportion or percentage).   
 
-The probability of a positive outcome will be denoted by \\( \pi \\).  Let Y be binary random variable. Then we write \\(P[Y=1]=\pi\\) for the probability of Y taking the value 1. 
+The probability of a positive outcome will be denoted by {$$} \pi {/$$}.  Let Y be binary random variable. Then we write {$$} P[Y=1]=\pi {/$$} for the probability of Y taking the value 1. 
+
+This is also the expected value of Y. We can say (informally) that on average we see
+1 and 0 with the proportions  {$$} \pi {/$$} and {$$} 1-\pi {/$$} of the time.  There fore the expected value is
+
+{$$}
+\pi = 1 \times \pi+0 \times (1-\pi).
+{/$$} 
+
+In mathematical notation we write {$$} E[Y]=\pi {/$$}.
+
+
+
+
